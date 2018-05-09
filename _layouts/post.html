@@ -1,0 +1,26 @@
+---
+layout: postlayout
+---
+<div class="container">      
+<article>
+  <div class="post">
+    <h1>{{ page.title }}</h1>	
+    <img src="{{page.image}}" alt="CoverImage"></img>    
+	<meta name="description" content="{{page.title}}"/>
+    <div class='oss-widget-interface'></div>                
+    
+    <div class="article-flexbox-container">
+      <div>
+          <h4>Written by <a href="mailto:lucy@goddenpayne.co.uk">Lucy Godden-Payne</a></h4>
+          <h4>On {{ page.date | date: "%B %e, %Y" }}</h4>         
+        </div> 
+      </div>  
+    </div>
+    <div>
+    </div>
+    <div class="entry">
+      {{ content }}
+    </div>          
+  </div>
+</article>
+</div>

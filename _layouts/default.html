@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>    
+    {% include meta.html %}    
+    {% include styles.html %}
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "title": "Amber Pixie Crafts",
+        "name": "Lucy Godden-Payne",
+        "url": "https://www.amberpixiecrafts.co.uk"
+      }
+    </script>
+  </head>  
+  <body>
+    <div class="container">
+        {% include header.html %}         
+    </div>
+    <div id="main" role="main">
+        {{ content }}
+    </div>
+    {% include footer.html %}
+  </body>
+</html>
