@@ -1,16 +1,3 @@
 ---
-layout: default
+layout: 2017_home
 ---
-<div class="post-container">    
-{% for post in site.posts %}
-  <div class="flexbox-container">
-    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">    
-      <img src="{{ post.image }}"></img>
-      <div class="main">            
-        <p>{{ post.date | date: "%B %e, %Y" }}.</p> 
-        <p class="post-title">{{ post.title }}</p>                
-      </div>  
-    </a>
-  </div>
-{% endfor %}
-</div>
