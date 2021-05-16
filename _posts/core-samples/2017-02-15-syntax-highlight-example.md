@@ -13,7 +13,7 @@ css:
 js: 
 bgcolor: ff5a71
 keywords: fullpage, html, css, landing page, jekyll, ruby, web marketing, advertising
-canonical: https://fullit.github.io
+canonical: https://amberpixiecrafts.co.uk
 
 ---
 {% include JB/setup %}

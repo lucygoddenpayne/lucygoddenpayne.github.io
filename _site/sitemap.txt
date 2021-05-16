@@ -1,0 +1,17 @@
+
+https://amberpixiecrafts.co.uk/404
+https://amberpixiecrafts.co.uk/about
+https://amberpixiecrafts.co.uk/archive
+https://amberpixiecrafts.co.uk/atom.xml
+https://amberpixiecrafts.co.uk/blog
+https://amberpixiecrafts.co.uk/categories
+https://amberpixiecrafts.co.uk/
+https://amberpixiecrafts.co.uk/landing
+https://amberpixiecrafts.co.uk/pages
+https://amberpixiecrafts.co.uk/rss.xml
+https://amberpixiecrafts.co.uk/sitemap.txt
+https://amberpixiecrafts.co.uk/tags
+
+https://amberpixiecrafts.co.uk/lessons/2017/03/20/make-your-jekyll-website-amazing
+https://amberpixiecrafts.co.uk/lessons/2017/02/15/syntax-highlight-example
+https://amberpixiecrafts.co.uk/lessons/2017/01/17/testing-locally
