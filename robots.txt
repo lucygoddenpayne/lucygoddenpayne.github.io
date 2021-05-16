@@ -1,8 +1,9 @@
----
-layout: null
-permalink: robots.txt
----
-Sitemap: {{ site.url }}/sitemap.xml
+User-Agent: *
+Disallow: 
+Disallow: /_includes/
+Disallow: /_drafts/
+Disallow: /_config.yml
+Disallow: /_layouts/
+Disallow: /_plugins/
 
-User-agent: *
-Disallow: /css
+Sitemap: https://fullit.github.io/sitemap.txt
